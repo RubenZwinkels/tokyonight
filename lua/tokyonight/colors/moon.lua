@@ -24,7 +24,6 @@ return {
   magenta = "#c099ff",
   magenta2 = "#ff007c",
   orange = "#ff966c",
-  dark_orange= "#b36a4d",
   purple = "#fca7ea",
   red = "#ff757f",
   red1 = "#c53b53",
